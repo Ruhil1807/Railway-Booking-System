@@ -155,7 +155,7 @@ railway-booking-system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ruhilpatel/railway-booking-system.git
+   git clone https://github.com/Ruhil1807/Railway-Booking-System.git
    cd railway-booking-system
    ```
 
@@ -181,3 +181,4 @@ railway-booking-system/
 **Ruhil Patel**
 - Email: ruhilpatel0718@gmail.com
 - LinkedIn: [linkedin.com/in/ruhil-patel-955101271](https://www.linkedin.com/in/ruhil-patel-955101271/)
+- GitHub: github.com/Ruhil1807
