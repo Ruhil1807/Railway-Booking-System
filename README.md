@@ -53,6 +53,7 @@ The Railway Booking System is a web-based ticketing application that supports th
 | Backend | Java Servlets |
 | Database | MySQL |
 | DB Connectivity | JDBC |
+|App ServerApache | Tomcat 9/10 |
 | Architecture | Multitier MVC (Presentation → Business Logic → Data Access) |
 | Version Control | Git |
 
