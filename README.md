@@ -176,6 +176,10 @@ railway-booking-system/
 
 ---
 
+📜 License
+Personal/academic project. Choose a license (MIT/Apache-2.0) if you plan to accept contributions.
+
+---
 ## 👤 Author
 
 **Ruhil Patel**
