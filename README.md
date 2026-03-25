@@ -183,6 +183,5 @@ Personal/academic project. Choose a license (MIT/Apache-2.0) if you plan to acce
 ## 👤 Author
 
 **Ruhil Patel**
-- Email: ruhilpatel0718@gmail.com
 - LinkedIn: [linkedin.com/in/ruhil-patel-955101271](https://www.linkedin.com/in/ruhil-patel-955101271/)
 - GitHub: github.com/Ruhil1807
